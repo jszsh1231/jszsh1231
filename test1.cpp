@@ -1,5 +1,4 @@
-//THis a test for update and upload to github.
-//This 2nd update in branch main.
+//1st version in branch main
 
 #include <iostream>
 using namespace std;
